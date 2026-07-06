@@ -27,7 +27,7 @@ I'm always looking for opportunities to contribute to open source, collaborate w
 
 ### 📌 Featured Projects
 - 🍽️ Full-Stack Food Ordering System
-- 🌦️ Weather App
+- 🌦️ Gate Question Bank API
 - ✅ Task Manager API
 - 📝 To-Do Application
 
